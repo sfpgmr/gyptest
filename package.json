@@ -1,0 +1,16 @@
+{
+  "name": "np",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "node-gyp rebuild",
+    "start":"nw ."
+  },
+  "author": "S.F.",
+  "license": "MIT",
+  "gypfile": true
+}
